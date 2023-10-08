@@ -9,7 +9,7 @@ The repository currently includes the following machine learning projects:
 
 `Project 1:` The company is trying to decide whether to focus their efforts on their mobile app experience or their website.Let's begin our understanding of implementing [Linear regression] in Python for classification. 
 
-`Project 2:` For this lecture we will be working with the [Titanic Data Set from Kaggle](https://www.kaggle.com/c/titanic). 
+`Project 2:` For this project we will be working with the [Titanic Data Set from Kaggle](https://www.kaggle.com/c/titanic). 
 This is a very famous data set and very often is a student's first step in machine learning! We'll be trying to predict a classification- survival or deceased.
 Let's begin our understanding of implementing Logistic Regression in Python for classification.
 
@@ -32,4 +32,4 @@ To explore a specific project, navigate to its directory and follow the instruct
 Feel free to use the code and resources in this repository for your own learning and experimentation. However, please respect any licensing or usage restrictions associated with the datasets or external libraries used in the projects.
 
 # About Me
-[Optional: Include a brief introduction about yourself and your interest in machine learning.]
+Open source enthusiast 💜 always on the lookout for new projects to contribute to 🤓.
