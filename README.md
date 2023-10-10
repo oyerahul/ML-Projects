@@ -13,7 +13,9 @@ The repository currently includes the following machine learning projects:
 This is a very famous data set and very often is a student's first step in machine learning! We'll be trying to predict a classification- survival or deceased.
 Let's begin our understanding of implementing Logistic Regression in Python for classification.
 
-`Project3:` In this project we will be working with a fake advertising data set, indicating whether or not a particular internet user clicked on an Advertisement. We will try to create a model that will predict whether or not they will click on an ad based off the features of that user.
+`Project 3:` In this project we will be working with a fake advertising data set, indicating whether or not a particular internet user clicked on an Advertisement. We will try to create a model that will predict whether or not they will click on an ad based off the features of that user.
+
+`Project 4:`For this project we will be exploring publicly available data from [LendingClub.com](www.lendingclub.com). Lending Club connects people who need money (borrowers) with people who have money (investors). Hopefully, as an investor you would want to invest in people who showed a profile of having a high probability of paying you back. We will try to create a model that will help predict this.
 
 # Project Structure
 Each project directory follows a similar structure:
