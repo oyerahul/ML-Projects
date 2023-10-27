@@ -36,4 +36,4 @@ To explore a specific project, navigate to its directory and follow the instruct
 Feel free to use the code and resources in this repository for your own learning and experimentation. However, please respect any licensing or usage restrictions associated with the datasets or external libraries used in the projects.
 
 # About Me
-Open source enthusiast 💜 always on the lookout for new projects to contribute to 🤓.
+Open source enthusiast, always on the lookout for new projects to contribute to 🤓.
